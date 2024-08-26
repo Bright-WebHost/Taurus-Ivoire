@@ -95,7 +95,7 @@ class ContactUs extends React.Component {
                                                 <div className="mt-icon-box-wraper left">
                                                     <div className="icon-xs"><i className="fa fa-map-marker" /></div>
                                                     <div className="icon-content">
-                                                        <h5 className="m-t0 font-weight-500">{Adresse}o</h5>
+                                                        <h5 className="m-t0 font-weight-500">{Adresse}</h5>
                                                         <p>Abidjan, Cóte d’Ivoire </p>
                                                     </div>
                                                 </div>
