@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Taurus-Ivoire/static/css/main.f859665e.css",
-    "main.js": "/Taurus-Ivoire/static/js/main.0e22dbdc.js",
+    "main.js": "/Taurus-Ivoire/static/js/main.b2b782a3.js",
     "static/media/video1.mp4": "/Taurus-Ivoire/static/media/video1.452cb574e665a65ff1e1.mp4",
     "static/media/homeproduct.webp": "/Taurus-Ivoire/static/media/homeproduct.f84fce4e4a6622b12bc3.webp",
     "static/media/aboutbanner.webp": "/Taurus-Ivoire/static/media/aboutbanner.43e23004e90d08386dea.webp",
@@ -51,10 +51,10 @@
     "index.html": "/Taurus-Ivoire/index.html",
     "static/media/getFetch.cjs": "/Taurus-Ivoire/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.f859665e.css.map": "/Taurus-Ivoire/static/css/main.f859665e.css.map",
-    "main.0e22dbdc.js.map": "/Taurus-Ivoire/static/js/main.0e22dbdc.js.map"
+    "main.b2b782a3.js.map": "/Taurus-Ivoire/static/js/main.b2b782a3.js.map"
   },
   "entrypoints": [
     "static/css/main.f859665e.css",
-    "static/js/main.0e22dbdc.js"
+    "static/js/main.b2b782a3.js"
   ]
 }
