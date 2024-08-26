@@ -38,7 +38,7 @@ import ScrollToTop from './Common/ScrollToTop';
 class Components extends React.Component {
     render() {
         return (
-            <BrowserRouter basename="/">
+            <BrowserRouter basename="/Taurus-Ivoire">
                 <ScrollToTop />
                 <div className="page-wraper">
                         <Routes>
